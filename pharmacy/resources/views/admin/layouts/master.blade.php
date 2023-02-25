@@ -220,9 +220,6 @@
                     <div class="col-sm-6">
                         Copyright &copy; ITI
                     </div>
-                    <div class="col-sm-6 text-right">
-                        Designed by <a href="https://github.com/Eanzo22">Mo samy</a>
-                    </div>
                 </div>
             </div>
         </footer>

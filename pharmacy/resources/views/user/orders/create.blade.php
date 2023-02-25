@@ -17,7 +17,7 @@
                     <div class="col-8">
                         <div class="form-group"><label for="count" class=" form-control-label">quantity</label><input type="text" name="quantity" id="count" placeholder="number of it" class="form-control"></div>
                         <div class="form-group">
-                            <div style="text-align:center ">
+                            <div style=" text-align : center">
                                 <button type="submit" class="btn btn-dark mb-2">confirm</button>
                             </div>
                         </div>
